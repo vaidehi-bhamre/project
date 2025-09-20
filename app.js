@@ -1,1 +1,1 @@
-//new featured is added - button
+//new feature is added
